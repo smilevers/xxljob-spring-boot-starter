@@ -1,2 +1,2 @@
-1 #-------starter自动装配---------
-2 org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.cttq.boot.XxlJobConfig
+#-------starter自动装配---------
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.smilevers.xxljob.spring.boot.autoconfigure.XxlJobConfig
